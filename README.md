@@ -25,7 +25,6 @@
  </table>
 
 # download
-  - Live matches score
-  - Upcoming matches
-  - Completed Matches info
+  - Android [download](https://drive.google.com/file/d/1u8trcTY3kZwDFWGXYgGSpLS2Gw17BytS/view?usp=sharing)
+
 
