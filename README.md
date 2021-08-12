@@ -7,8 +7,8 @@
      <td>Home</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/splash_screen.jpg" width=50%></td>
-    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/home.jpg" width=50%></td>
+    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/splash_screen.jpg" width=100%></td>
+    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/home.jpg" width=100%></td>
   </tr>
  </table>
  <table>
@@ -18,9 +18,9 @@
       <td>Hotel details</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/hotel_list.jpg" width=32% ></td>
-   <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/hotel_single.jpg" width=32% ></td>
-     <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/details.jpg" width=32% ></td>
+    <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/hotel_list.jpg" width=100% ></td>
+   <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/hotel_single.jpg" width=100% ></td>
+     <td><img src="https://github.com/RezaulRaaz/trave-app-react-native/blob/master/assets/app_screen_shot/details.jpg" width=100% ></td>
   </tr>
  </table>
 
